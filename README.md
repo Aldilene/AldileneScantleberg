@@ -1,5 +1,5 @@
 #Olá! Eu sou a Aldilene Scantleberg.
-💻 ainda identificando qual mais gosto, (back ou front and).
+💻 focando em python como minha primeira linguagem.
 📚 Estudante de Análise de Sistemas.
 
 <div align="center">
